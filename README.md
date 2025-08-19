@@ -1,7 +1,7 @@
 # Personal-Profile
 ## Hi there, I'm Danielson Ani 👋
 
-### 👨‍💻 Data Analyst & ML Engineer
+### 👨‍💻 Data Scientist & ML Engineer
 
 I am Danielson Ani, a results-driven Data Scientist with over 2 years of experience transforming raw data into actionable insights. Skilled in data wrangling, machine learning, and statistical analysis, I specialize in delivering data-driven solutions using:
 
